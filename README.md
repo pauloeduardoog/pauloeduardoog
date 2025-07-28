@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, sou o Paulo Eduardo De Oliveira Gonçalves! 👋
 
-<!--
-**pauloeduardoog/pauloeduardoog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Desenvolvedor Backend** apaixonado por tecnologia e por construir a infraestrutura que faz a web funcionar.
 
-Here are some ideas to get you started:
+Minha jornada na área começou com a formação em **Análise e Desenvolvimento de Sistemas (ADS)** pela Universidade Anhembi Morumbi. Atualmente, estou aprofundando meus conhecimentos 
+no **primeiro semestre do Bacharelado em Tecnologia da Informação (TI)** na UNIVESP, buscando uma base ainda mais sólida e abrangente.
+Estou sempre aprendendo e buscando novos desafios para aprimorar minhas habilidades e contribuir com projetos significativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+Conecte-se comigo:
+[**LinkedIn**](https://www.linkedin.com/in/pauloeduardodeoliveira/)
+   E-mail
+   [**Email**](mailto:pauloeduardoog@gmail.com)
